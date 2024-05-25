@@ -1,7 +1,7 @@
 ### Olá visitante! Muito prazer, bem vindo a Db3center,
 <a href="https://github.com/Db3center?tab=repositories" target="_blank"> veja meu portfólio de repositórios</a>
 
-<a href="https://github.com/Db3center?tab=repositories" target="_blank"><img align="center" width="40px" src="https://github.com/Db3center/db3/blob/Db3center/logo.png">
+<a href="https://github.com/Db3center?tab=repositories" target="_blank"><img align="center" width="40px" src="https://db3host.com">
     <span> Conheça o Portal do Empresário</span></a>
 
 
