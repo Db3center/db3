@@ -1,6 +1,6 @@
-### Olá visitante! Muito prazer, sou a Db3center,
+### Olá visitante! Muito prazer, bem vindo a Db3center,
 <a href="https://github.com/Db3center?tab=repositories" target="_blank"> veja meu portfólio de repositórios</a>
-     <img align="center" width="40px" src="https://github.com/Db3center/db3/blob/Db3center/logo.png"></a>
+     <img align="center" width="40px" src="https://github.com/Db3center/db3/blob/Db3center/logo.png">
     <span> Conheça o Portal do Empresário</span>
 
 
