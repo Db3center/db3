@@ -1,9 +1,10 @@
-Olá visitante! Muito prazer, bem vindo a Db3center!
+Olá visitante! Muito prazer, bem vindo a Db3center! <img align="center" width="40px" src="https://github.com/Db3center/db3/blob/Db3center/logo.png">
+
 ===
 
 <a href="https://github.com/Db3center?tab=repositories"> veja meu portfólio de repositórios</a>
 
-<a href="https://www.db3host.com" target="_blank"><span> Conheça o Portal do Empresário</span> <img align="center" width="40px" src="https://github.com/Db3center/db3/blob/Db3center/logo.png"></a>
+<a href="https://www.db3host.com" target="_blank"><span> Conheça o Portal do Empresário</span></a>
 
 ---
 #### Sou apaixonado por aprender, abaixo você pode ver as tecnologias que utilizo.
