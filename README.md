@@ -18,7 +18,7 @@ Formação academica:
 - MBA em Gestão Financeira;
 ***
 
-## Funcionalidades
+## _Funcionalidades_
 - Analise de dados
 - Planilhas e Dashboards
 - Softwares e Programas
