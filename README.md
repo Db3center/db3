@@ -1,10 +1,10 @@
 <a><img align="center" width="40px" src="https://github.com/Db3center/db3/blob/Db3center/logo.png"> Olá visitante! Muito prazer, bem vindo a Db3center!</a>
 ***
-
-
 <a href="https://github.com/Db3center?tab=repositories">Veja meu portfólio de repositórios</a>
+***
 
-<a href="https://www.db3host.com" target="_blank"><span> Conheça o Portal do Empresário</span></a>
+<a href="https://www.db3host.com" target="_blank"><span> Conheça nosso Site</span></a>
+<a href="https://www.db3host.com" target="_blank"><span> Visite o Portal do Empresário</span></a>
 
 ---
 #### Sou apaixonado por aprender, abaixo você pode ver as tecnologias que utilizo.
