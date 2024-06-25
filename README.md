@@ -10,7 +10,7 @@
 ***
 
 
-### Empresa espacializada em Analise de Dados.
+### _Empresa especializada em Analise de Dados._
 Formação academica:
 - Graduação em Administração de Empresas;
 - Pós-Graduação em Desenvolvimento de Software;
@@ -24,7 +24,7 @@ Formação academica:
 - Softwares e Programas
 
 ***
-#### Veja as tecnologias que utilizo.
+#### _Tecnologias utilizadas_
 <div style="display: inline_block">
   <img align="center" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
