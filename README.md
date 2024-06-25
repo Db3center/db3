@@ -29,6 +29,7 @@ Formação academica:
 ## Funcionalidades
 - Analise de dados
 - Planilhas e Dashboards
+- Softwares e Programas
 
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
